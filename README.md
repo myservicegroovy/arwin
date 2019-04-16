@@ -3,5 +3,5 @@ Memory Alloc Address Library Name and Function Name
 
 <b>Example :</b><br/>
 <spoiler>C:>arwin kernel32.dll LoadLibraryA<br/>
-arwin - win32 address resolution program - by steve hanna - v.01
+arwin - win32 address resolution program - by steve hanna - v.01<br/>
 LoadLibraryA is located at 0x776bde35 in kernel32.dll</spoiler>
